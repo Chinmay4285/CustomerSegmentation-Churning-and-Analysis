@@ -1,5 +1,5 @@
 # CustomerSegmentation-Churning-and-Analysis
-EDA and customer segmentation with RFM analysis. 
+EDA and customer segmentation with RFM analysis. It was part of hackathon conducted by LMG group on hackerearth.It lasted for a month long.You can download data sets fromn link given beow.
 
 https://www.hackerearth.com/challenge/hiring/LMG-analytics-data-science-hiring-challenge
 

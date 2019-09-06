@@ -1,2 +1,8 @@
-# RFMAnalysisandCustomerSegmentation-RFMMaster
-This was developed by me for a Hackathon in Hackerearth.com. It has code to preprocess customer data and churn the model. I was top 15 in leader board . You can use it for reference and further enhancement
+# RFMAnalysisandCustomerSegmentation
+EDA and customer segmentation with RFM analysis. 
+
+https://www.hackerearth.com/challenge/hiring/LMG-analytics-data-science-hiring-challenge
+
+You can download the data from the link provided and execute this code.
+
+Note: Jupyter notebook was crossing 30MB size with the plots, so I had to clear the output, please take a look at the html for output.

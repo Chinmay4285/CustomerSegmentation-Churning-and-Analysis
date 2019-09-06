@@ -1,4 +1,4 @@
-# RFMAnalysisandCustomerSegmentation
+# CustomerSegmentation-Churning-and-Analysis
 EDA and customer segmentation with RFM analysis. 
 
 https://www.hackerearth.com/challenge/hiring/LMG-analytics-data-science-hiring-challenge
